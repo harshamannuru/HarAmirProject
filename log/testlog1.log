@@ -1,0 +1,14 @@
+2024-05-30 12:35:22,102 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Firstname is enetred
+2024-05-30 12:35:24,081 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Screenshot is taken
+2024-05-30 12:35:24,081 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Fail
+2024-05-31 10:48:26,583 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Firstname is enetred
+2024-05-31 10:48:26,706 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Lastname is entered
+2024-05-31 10:48:34,760 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Screenshot is taken
+2024-05-31 10:48:34,761 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Fail
+2024-05-31 10:51:30,940 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Firstname is enetred
+2024-05-31 10:51:30,990 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Lastname is entered
+2024-05-31 10:51:31,898 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Pass
+2024-06-10 10:42:17,134 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Firstname is enetred
+2024-06-10 10:42:17,213 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Lastname is entered
+2024-06-10 10:42:18,772 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Screenshot is taken
+2024-06-10 10:42:18,772 [main] INFO org.openqa.selenium.chrome.ChromeDriver - Fail
